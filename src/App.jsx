@@ -810,7 +810,7 @@ function App() {
                   Dwarka,Gujarat,361345
                 </p>
                 <p>
-                  <strong>Email:</strong> dola@TechTrainingNow.com
+                  <strong>Email:</strong> maheshkumar@techtrainingnow.com
                 </p>
               </div>
             </div>
